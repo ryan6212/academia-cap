@@ -70,6 +70,7 @@ Use o comando javac para compilar o programa.<br>
 ```
 $ javac QuestDois.java
 ```
+![jacquest2](https://user-images.githubusercontent.com/98600862/154811957-6b620fac-c816-4ab7-bd81-09a4e4912918.png)
 
 Em seguida, digite o comando java, o nome da questao a ser executada e uma palavra de sua preferência.<br>
 ```
