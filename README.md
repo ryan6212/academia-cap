@@ -77,7 +77,7 @@ Em seguida, digite o comando java e o nome da questao a ser executada e uma pala
 $ java QuestDois
 ```
 ![teste 2](https://user-images.githubusercontent.com/98600862/154810309-e77c6366-fd3e-407f-b28b-d2c6d02bbeb3.png)
-
+```
 
 <b>✍️ Terceira Questão:</b>
 
