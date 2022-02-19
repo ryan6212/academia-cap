@@ -49,6 +49,7 @@ $ java QuestUm
 ```
 ![Q1](https://user-images.githubusercontent.com/98600862/154806963-d29ede35-dd8f-4093-9687-3c1621f55601.png)
 
+
 ## ✍️ Segunda Questão:
 
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
@@ -64,6 +65,7 @@ Ex: Para rodar a Questão Dois, digite:
 $ java QuestDois
 ```
 ![Gif2](https://user-images.githubusercontent.com/98600862/154808328-6c7ca838-c4bd-4039-b8c8-6da5607f6d5b.gif)
+
 
 ## ✍️ Terceira Questão:
 
@@ -84,21 +86,9 @@ $ java QuestTres
 
 Você também pode rodar os programas na sua IDE preferida.
 
-## 📫 Contribuindo para <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
 
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
+## 🧑‍💻 Final
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-
-## 😄 Considerações Finais<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Desde já agradeço o teste que me foi concedido. Foi um prazer poder estar aqui e ter um desafio de conhecimento para melhor sobre o seu funcionamento. Estou muito entusiasmado com a possibilidade de me juntar à empresa e de poder dar a minha contribuição.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
