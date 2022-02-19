@@ -51,9 +51,9 @@ $ java QuestUm
 <b>✍️ Primeira Questão:</b>
 
 Use o comando javac para compilar o programa.<br>
-
+```
 $ javac QuestUm.java
-
+```
 ![compilando](https://user-images.githubusercontent.com/98600862/154809262-6488149f-0b1f-4e36-bd9f-7656d59e43df.png)
 
 
@@ -67,12 +67,12 @@ $ java QuestUm
 <b>✍️ Segunda Questão:</b>
 
 Use o comando javac para compilar o programa.<br>
-
+```
 $ javac QuestDois.java
-
+```
 
 Em seguida, digite o comando java, o nome da questao a ser executada e uma palavra de sua preferência.<br>
-
+```
 $ java QuestDois
 ```
 
@@ -81,14 +81,14 @@ $ java QuestDois
 <b>✍️ Terceira Questão:</b>
 
 Use o comando javac para compilar o programa.<br>
-
+```
 $ javac QuestTres.java
-
+```
 ![q3j](https://user-images.githubusercontent.com/98600862/154810408-959ace01-c88f-466e-b128-2cc8575192f8.png)
-
+```
 
 Em seguida, digite o comando java, o nome da questao a ser executada e a palavra a ser encontrado o número de pares de substrings.<br>
-
+```
 $ java QuestTres
 ```
 ![ovo](https://user-images.githubusercontent.com/98600862/154808365-2b3fa7e5-d92c-4510-935c-d8a753b7f822.png)
