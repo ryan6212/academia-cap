@@ -7,15 +7,15 @@
 
 ### Visão Geral
 
-. O desafio é composto de três questões, que podem ser acessadas nesse [link](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
+. O desafio é composto de três questões, que podem ser acessadas clicando [aqui](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
 
 
 
 ### Tecnologias e Ferramentas
 Foi desenvolvido a solução para o desafio utilizando a linguagem de programação JAVA e o editor de texto VScode
 
-* Visual Studio Code [link](https://code.visualstudio.com/).
-* Linguagem Java [ll](https://www.java.com/pt-BR/).
+* [Visual Studio Code](https://code.visualstudio.com/).
+* [Linguagem Java](https://www.java.com/pt-BR/).
 
 ## 💻 Pré-requisitos
 
@@ -33,19 +33,54 @@ Clone o repositório.
 ```
 $ git clone https://github.com/ryan6212/academia-cap.git
 ```
+## ✍️ Primeira Questão:
+
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
 Use o comando javac para compilar o programa.<br>
-Ex: Para excutar a QuestaoUm, digite:
+Ex: Para excutar a Questão Um, digite:
 ```
-$ javac QuestaoUm.java
+$ javac QuestUm.java
 ```
 Em seguida, digite o comando java e o nome da questao a ser executada.<br>
-Ex: Para rodar a QuestaoUm, digite:
+Ex: Para rodar a Questão Um, digite:
 ```
-$ java QuestaoUm
+$ java QuestUm
 ```
-<img src="Q1.PNG" align="center" alt="logo Q1">
+<img src="Q1.png" align="center" alt="img Q1">
+
+## ✍️ Segunda Questão:
+
+Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
+
+Use o comando javac para compilar o programa.<br>
+Ex: Para excutar a Questão Dois, digite:
+```
+$ javac QuestDois.java
+```
+Em seguida, digite o comando java e o nome da questao a ser executada.<br>
+Ex: Para rodar a Questão Dois, digite:
+```
+$ java QuestDois
+```
+
+
+## ✍️ Terceira Questão:
+
+Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
+
+Use o comando javac para compilar o programa.<br>
+Ex: Para excutar a Questão Três, digite:
+```
+$ javac QuestTres.java
+```
+Em seguida, digite o comando java e o nome da questao a ser executada.<br>
+Ex: Para rodar a Questão Três, digite:
+```
+$ java QuestTres
+```
+
+
 
 Você também pode rodar os programas na sua IDE preferida.
 
