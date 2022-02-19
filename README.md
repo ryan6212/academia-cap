@@ -86,10 +86,10 @@ Use o comando javac para compilar o programa.<br>
 $ javac QuestTres.java
 ```
 ![q3j](https://user-images.githubusercontent.com/98600862/154810408-959ace01-c88f-466e-b128-2cc8575192f8.png)
+
+Em seguida, digite o comando java, o nome da questao a ser executada e a palavra a ser encontrado o número de
+pares de substrings.<br>
 ```
-
-Em seguida, digite o comando java, o nome da questao a ser executada e a palavra a ser encontrado o número de pares de substrings.<br>
-
 $ java QuestTres
 ```
 ![ovo](https://user-images.githubusercontent.com/98600862/154808365-2b3fa7e5-d92c-4510-935c-d8a753b7f822.png)
@@ -101,5 +101,6 @@ Você também pode rodar os programas na sua IDE preferida.
 ## 🧑‍💻 Final
 
 Desde já agradeço pela oportunidade, espero um feedback do projeto. Estou muito animado com a possibilidade de trabalhar com uma das maiores consultorias do mundo.
+
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
