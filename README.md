@@ -76,7 +76,7 @@ Em seguida, digite o comando java, o nome da questao a ser executada e uma palav
 $ java QuestDois
 ```
 
-<img src="Senha.png" >
+![Senha](https://user-images.githubusercontent.com/98600862/154811241-d3c5e69e-1793-435a-b830-eea656cd31d8.png)
 
 <b>✍️ Terceira Questão:</b>
 
@@ -88,7 +88,7 @@ $ javac QuestTres.java
 ```
 
 Em seguida, digite o comando java, o nome da questao a ser executada e a palavra a ser encontrado o número de pares de substrings.<br>
-```
+
 $ java QuestTres
 ```
 ![ovo](https://user-images.githubusercontent.com/98600862/154808365-2b3fa7e5-d92c-4510-935c-d8a753b7f822.png)
