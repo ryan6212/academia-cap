@@ -14,8 +14,8 @@
 ### Tecnologias e Ferramentas
 Foi desenvolvido a solução para o desafio utilizando a linguagem de programação JAVA e o editor de texto VScode
 
-* Visual Studio Code [link] (https://code.visualstudio.com/)
-* Linguagem Java [link] (https://www.java.com/pt-BR/)
+* Visual Studio Code [link] (https://code.visualstudio.com/).
+* Linguagem Java [link] (https://www.java.com/pt-BR/).
 
 ## 💻 Pré-requisitos
 
@@ -45,6 +45,7 @@ Ex: Para rodar a QuestaoUm, digite:
 ```
 $ java QuestaoUm
 ```
+<img src="Q1.PNG" align="center" alt="logo Q1">
 
 Você também pode rodar os programas na sua IDE preferida.
 
