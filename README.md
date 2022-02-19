@@ -23,7 +23,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a Java JDK, caso não tenha instalado pode baixar nesse [link](https://www.oracle.com/java/technologies/downloads/).
 * Ter uma máquina compatível `<Windows / Linux / Mac>` ou equivalente.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 
 ## ☕ Usando <O Desafio>
@@ -33,8 +32,6 @@ Clone o repositório.
 ```
 $ git clone https://github.com/ryan6212/academia-cap.git
 ```
-## ✍️ Primeira Questão:
-
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
 Use o comando javac para compilar o programa.<br>
@@ -44,6 +41,20 @@ $ javac QuestUm.java
 ```
 Em seguida, digite o comando java e o nome da questao a ser executada.<br>
 Ex: Para rodar a Questão Um, digite:
+```
+$ java QuestUm
+```
+![Gif1](https://user-images.githubusercontent.com/98600862/154809016-754e9d3b-f002-42fe-aed5-aa57b99e8a29.gif)
+
+## ✍️ Primeira Questão:
+
+Use o comando javac para compilar o programa.<br>
+
+$ javac QuestUm.java
+```
+![compilando](https://user-images.githubusercontent.com/98600862/154809262-6488149f-0b1f-4e36-bd9f-7656d59e43df.png)
+
+Em seguida, digite o comando java e o nome da questao a ser executada e logo após o número da fileira desejada.<br>
 ```
 $ java QuestUm
 ```
