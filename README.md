@@ -1,7 +1,7 @@
 # Desafio Academia Técnica Capgemini
 
 
-<img src="logo-capgemini.png" align="center" alt="logo capgemini">
+<img src="assets/logo-capgemini.png" align="center" alt="logo capgemini">
 
 > Repositório criado para mostrar a resolução dos desafios propostos na seleção da academia técnica de java capgemini. 
 
