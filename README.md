@@ -47,7 +47,7 @@ Ex: Para rodar a Questão Um, digite:
 ```
 $ java QuestUm
 ```
-<img src="Q1.png" align="center" alt="img Q1">
+![Q1](https://user-images.githubusercontent.com/98600862/154806963-d29ede35-dd8f-4093-9687-3c1621f55601.png)
 
 ## ✍️ Segunda Questão:
 
