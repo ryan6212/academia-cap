@@ -76,16 +76,13 @@ Em seguida, digite o comando java, o nome da questao a ser executada e uma palav
 $ java QuestDois
 ```
 
-![Senha](https://user-images.githubusercontent.com/98600862/154811241-d3c5e69e-1793-435a-b830-eea656cd31d8.png)
-
-
+<img src="Senha.png" >
 
 <b>✍️ Terceira Questão:</b>
 
 Use o comando javac para compilar o programa.<br>
 
 $ javac QuestTres.java
-
 
 ![q3j](https://user-images.githubusercontent.com/98600862/154810408-959ace01-c88f-466e-b128-2cc8575192f8.png)
 
