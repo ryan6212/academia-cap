@@ -70,14 +70,13 @@ Use o comando javac para compilar o programa.<br>
 
 $ javac QuestDois.java
 
-![compilar2q](https://user-images.githubusercontent.com/98600862/154810887-e7fd40a0-2535-4d36-a46f-0ad95ea91aff.png)
 
-Em seguida, digite o comando java e o nome da questao a ser executada e uma palavra de sua preferência.<br>
+Em seguida, digite o comando java, o nome da questao a ser executada e uma palavra de sua preferência.<br>
 
 $ java QuestDois
 ```
-![teste 2](https://user-images.githubusercontent.com/98600862/154810309-e77c6366-fd3e-407f-b28b-d2c6d02bbeb3.png)
-```
+![Senha](https://user-images.githubusercontent.com/98600862/154811241-d3c5e69e-1793-435a-b830-eea656cd31d8.png)
+
 
 <b>✍️ Terceira Questão:</b>
 
@@ -87,7 +86,7 @@ $ javac QuestTres.java
 ```
 ![q3j](https://user-images.githubusercontent.com/98600862/154810408-959ace01-c88f-466e-b128-2cc8575192f8.png)
 
-Em seguida, digite o comando java e o nome da questao a ser executada.<br>
+Em seguida, digite o comando java, o nome da questao a ser executada e a palavra a ser encontrado o número de pares de substrings.<br>
 
 $ java QuestTres
 ```
