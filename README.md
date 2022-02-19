@@ -11,10 +11,11 @@
 
 
 
-### Tecnologias
+### Tecnologias e Ferramentas
 Foi desenvolvido a solução para o desafio utilizando a linguagem de programação JAVA e o editor de texto VScode
 
-
+* Visual Studio Code [link] (https://code.visualstudio.com/)
+* Linguagem Java [link] (https://www.java.com/pt-BR/)
 
 ## 💻 Pré-requisitos
 
@@ -25,12 +26,12 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <O Desafio>
 
 Para testas as <Questões>, siga estas etapas:
 Clone o repositório.
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/ryan6212/academia-cap.git
 ```
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
