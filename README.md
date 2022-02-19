@@ -46,7 +46,9 @@ $ java QuestUm
 ```
 ![Gif1](https://user-images.githubusercontent.com/98600862/154809016-754e9d3b-f002-42fe-aed5-aa57b99e8a29.gif)
 
-## ✍️ Primeira Questão:
+## 👨‍💻 TESTES: 👨‍💻
+
+<b>✍️ Primeira Questão:</b>
 
 Use o comando javac para compilar o programa.<br>
 
@@ -55,14 +57,14 @@ $ javac QuestUm.java
 ![compilando](https://user-images.githubusercontent.com/98600862/154809262-6488149f-0b1f-4e36-bd9f-7656d59e43df.png)
 
 
-Em seguida, digite o comando java, o nome da questao a ser executada e logo após o número da fileira desejada.<br>
+Em seguida, digite o comando java, o nome da questao a ser executada e logo após o número do degrau desejado.<br>
 ```
 $ java QuestUm
 ```
 ![Q1](https://user-images.githubusercontent.com/98600862/154806963-d29ede35-dd8f-4093-9687-3c1621f55601.png)
 
 
-## ✍️ Segunda Questão:
+<b>✍️ Segunda Questão:</b>
 
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
@@ -79,7 +81,7 @@ $ java QuestDois
 ![Gif2](https://user-images.githubusercontent.com/98600862/154808328-6c7ca838-c4bd-4039-b8c8-6da5607f6d5b.gif)
 
 
-## ✍️ Terceira Questão:
+<b>✍️ Terceira Questão:</b>
 
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
