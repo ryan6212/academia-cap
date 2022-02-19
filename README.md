@@ -66,33 +66,29 @@ $ java QuestUm
 
 <b>✍️ Segunda Questão:</b>
 
-Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
-
 Use o comando javac para compilar o programa.<br>
-Ex: Para excutar a Questão Dois, digite:
-```
+
 $ javac QuestDois.java
 ```
-Em seguida, digite o comando java e o nome da questao a ser executada.<br>
-Ex: Para rodar a Questão Dois, digite:
-```
+![compilar2q](https://user-images.githubusercontent.com/98600862/154810258-f0500605-c767-4d51-8803-2c22bf8027d0.png)
+
+Em seguida, digite o comando java e o nome da questao a ser executada e uma palavra de sua preferência.<br>
+
 $ java QuestDois
 ```
-![Gif2](https://user-images.githubusercontent.com/98600862/154808328-6c7ca838-c4bd-4039-b8c8-6da5607f6d5b.gif)
+![teste 2](https://user-images.githubusercontent.com/98600862/154810309-e77c6366-fd3e-407f-b28b-d2c6d02bbeb3.png)
 
 
 <b>✍️ Terceira Questão:</b>
 
-Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
-
 Use o comando javac para compilar o programa.<br>
-Ex: Para excutar a Questão Três, digite:
-```
+
 $ javac QuestTres.java
 ```
+![q3j](https://user-images.githubusercontent.com/98600862/154810408-959ace01-c88f-466e-b128-2cc8575192f8.png)
+
 Em seguida, digite o comando java e o nome da questao a ser executada.<br>
-Ex: Para rodar a Questão Três, digite:
-```
+
 $ java QuestTres
 ```
 ![ovo](https://user-images.githubusercontent.com/98600862/154808365-2b3fa7e5-d92c-4510-935c-d8a753b7f822.png)
@@ -103,6 +99,6 @@ Você também pode rodar os programas na sua IDE preferida.
 
 ## 🧑‍💻 Final
 
-Desde já agradeço o teste que me foi concedido. Foi um prazer poder estar aqui e ter um desafio de conhecimento para melhor sobre o seu funcionamento. Estou muito entusiasmado com a possibilidade de me juntar à empresa e de poder dar a minha contribuição.
+Desde já agradeço pela oportunidade, espero um feedback do projeto. Estou muito animado com a possibilidade de trabalhar com uma das maiores consultorias do mundo.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
