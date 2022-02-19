@@ -69,8 +69,8 @@ $ java QuestUm
 Use o comando javac para compilar o programa.<br>
 
 $ javac QuestDois.java
-```
-![compilar2q](https://user-images.githubusercontent.com/98600862/154810258-f0500605-c767-4d51-8803-2c22bf8027d0.png)
+
+![compilar2q](https://user-images.githubusercontent.com/98600862/154810887-e7fd40a0-2535-4d36-a46f-0ad95ea91aff.png)
 
 Em seguida, digite o comando java e o nome da questao a ser executada e uma palavra de sua preferência.<br>
 
