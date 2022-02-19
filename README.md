@@ -63,7 +63,7 @@ Ex: Para rodar a Questão Dois, digite:
 ```
 $ java QuestDois
 ```
-
+![Gif2](https://user-images.githubusercontent.com/98600862/154808328-6c7ca838-c4bd-4039-b8c8-6da5607f6d5b.gif)
 
 ## ✍️ Terceira Questão:
 
@@ -79,8 +79,8 @@ Ex: Para rodar a Questão Três, digite:
 ```
 $ java QuestTres
 ```
-
-
+![ovo](https://user-images.githubusercontent.com/98600862/154808365-2b3fa7e5-d92c-4510-935c-d8a753b7f822.png)
+![fai](https://user-images.githubusercontent.com/98600862/154808357-d1201c87-cc93-4843-8988-b7202e8eca40.png)
 
 Você também pode rodar os programas na sua IDE preferida.
 
