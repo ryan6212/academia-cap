@@ -27,7 +27,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando <O Desafio>
 
-Para testas as <Questões>, siga estas etapas:
+Para testar as <Questões>, siga estas etapas:
 Clone o repositório.
 ```
 $ git clone https://github.com/ryan6212/academia-cap.git
@@ -55,7 +55,7 @@ $ javac QuestUm.java
 ![compilando](https://user-images.githubusercontent.com/98600862/154809262-6488149f-0b1f-4e36-bd9f-7656d59e43df.png)
 
 
-Em seguida, digite o comando java e o nome da questao a ser executada e logo após o número da fileira desejada.<br>
+Em seguida, digite o comando java, o nome da questao a ser executada e logo após o número da fileira desejada.<br>
 ```
 $ java QuestUm
 ```
