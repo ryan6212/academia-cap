@@ -7,7 +7,7 @@
 
 ### Visão Geral
 
-. O desafio é composto de três questões, que podem ser acessadas clicando [aqui](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
+ O desafio é composto de três questões, que podem ser acessadas clicando [aqui](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
 
 
 
@@ -72,7 +72,7 @@ $ javac QuestDois.java
 ```
 ![jacquest2](https://user-images.githubusercontent.com/98600862/154811957-6b620fac-c816-4ab7-bd81-09a4e4912918.png)
 
-Em seguida, digite o comando java, o nome da questao a ser executada e uma palavra de sua preferência.<br>
+Em seguida, digite o comando java, o nome da questao a ser executada e uma senha de sua preferência.<br>
 ```
 $ java QuestDois
 ```
