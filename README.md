@@ -32,7 +32,7 @@ Clone o repositório.
 ```
 $ git clone https://github.com/ryan6212/academia-cap.git
 ```
-Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
+Acesse a pasta clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
 Use o comando javac para compilar o programa.<br>
 Ex: Para excutar a Questão Um, digite:
@@ -103,4 +103,4 @@ Você também pode rodar os programas na sua IDE preferida.
 Desde já agradeço pela oportunidade, espero um feedback do projeto. Estou muito animado com a possibilidade de trabalhar com uma das maiores consultorias do mundo.
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](academia-cap)<br>
